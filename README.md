@@ -1,26 +1,56 @@
-## Nikita Koreshkov
+# 👋 Hello, I'm Nikita Koreshkov
 
-I build web products end to end: the interface layer, the API behind it, and the database under that. Most of my work is client-facing sites for real businesses, where the design is heavy and the device budget is not, so a large part of what I do is making motion affordable.
+## Full-Stack Web Developer | Next.js Expert | E-commerce Specialist
 
-### Selected work
+I build production-grade e-commerce platforms, admin dashboards, and marketing sites using modern tech stacks.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [luno-agency](https://github.com/NikitaKoreshkov/luno-agency) | Site and client area for a digital agency. WebGPU scroll headline, refracting glass header, frame-budget watchdog, Postgres auth with OTP and Google sign-in. [Live](https://luno-agency-nknpro.vercel.app) | Next.js 16, three.js/WebGPU, GSAP, Postgres |
-| [hwangs-auction-house](https://github.com/NikitaKoreshkov/hwangs-auction-house) | Auction house for luxury assets: film hero, data-driven filter engine, lot certificates and a protocol archive. [Demo](https://hwangs-auction-house.vercel.app) runs the whole site without a database. | Next.js 16, React 19, Tailwind 4, PostgreSQL |
-| [aquagazteh-catalog](https://github.com/NikitaKoreshkov/aquagazteh-catalog) | PE-pipe and fitting catalogue with its own CMS: three-level section tree, data-driven filters, four-step calculator, lead inbox. [Demo](https://aquagazteh-catalog.vercel.app) runs the site and the admin panel without a database. | Next.js 14, Prisma, PostgreSQL, NextAuth |
-| [FinKeyMemory](https://github.com/NikitaKoreshkov/FinKeyMemory) | Four-tier temporal memory for AI agents: as-of fact store, scene blocks, self-regenerating persona, maintenance cycle. Published to PyPI. | Python |
-| [ledvl-store](https://github.com/NikitaKoreshkov/ledvl-store) | Lighting-equipment store for a Vladivostok supplier: price-list filter engine, admin panel, Excel import, Docker Compose stack. [Demo](https://ledvl-storefront.vercel.app) runs the frontend with no backend. | Next.js 14, NestJS 11, PostgreSQL, MinIO |
-| [stepwave-store](https://github.com/NikitaKoreshkov/stepwave-store) | Sneaker storefront on Spring Boot with a Thymeleaf catalog, email-code reset and a client area. Revisited in 2026: the README lists the defects found against the running app and how each was fixed. | Java 17, Spring Boot, PostgreSQL |
-| [pechnoyproekt](https://github.com/NikitaKoreshkov/pechnoyproekt) | Catalog, cost calculator and portfolio for a construction business. | Next.js, TypeScript |
-| [4snab](https://github.com/NikitaKoreshkov/4snab) | Warehouse manager interface with amoCRM integration. | Next.js, TypeScript |
+---
 
-### What I optimize for
+## 🎯 Featured Portfolio Projects
 
-- Frame budgets over frame drops. Effects get a measured device tier and a downgrade path instead of a fixed GPU assumption.
-- Auth that is boring and correct: hashed OTP, short-lived digests, server-side session revocation, rate limits in the database rather than in memory.
-- Pages that ship as HTML first. Heavy sections mount lazily, so the first paint never waits on a shader.
+### **Web Development & E-commerce**
 
-### Toolchain
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| [dachnye-domiki-bytovki](https://github.com/NikitaKoreshkov/dachnye-domiki-bytovki) | Next.js 14, Prisma + Postgres | Дачные домики каркасный дом под ключ. Demo without database. **[Live]**(https://dachnye-domiki-bytovki.vercel.app) |
+| [aquagazteh-catalog](https://github.com/NikitaKoreshkov/aquagazteh-catalog) | Next.js 14, Prisma + Postgres | PE-pipe catalogue with CMS. Works without database in demo mode. |
+| [ledvl-store](https://github.com/NikitaKoreshkov/ledvl-store) | Next.js 14 + NestJS 11, PostgreSQL | LEDVL lighting store with price-list filter engine and admin panel. **[Live]**(https://ledvl.ru) |
+| [hwangs-auction-house](https://github.com/NikitaKoreshkov/hwangs-auction-house) | Next.js 16, React 19, Postgres | Luxury art auction platform with real-time bidding. |
+| [stepwave-store](https://github.com/NikitaKoreshkov/stepwave-store) | Spring Boot 2.7, Thymeleaf, PostgreSQL | StepWave sneaker storefront with real sessions. |
+| [city-legend](https://github.com/NikitaKoreshkov/city-legend) | Next.js 14, Tailwind CSS | City Legend jewelry and accessories catalog. |
+| [bereke-development](https://github.com/NikitaKoreshkov/bereke-development) | Next.js 14, CRM Integration | BEREKE office center site (Almaty). |
 
-TypeScript, React and Next.js across the front end; Tailwind and CSS modules for styling; Node and Python on the backend; Postgres for storage; Vercel for delivery.
+### **Marketing Sites**
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| [luno-agency](https://github.com/NikitaKoreshkov/luno-agency) | Next.js 16, WebGPU/GSAP | LUNO digital agency with scroll motion. |
+| [enter-marketing](https://github.com/NikitaKoreshkov/enter-marketing) | Next.js 14, GSAP Animations | Enter Marketing digital agency site. |
+| [art-office-group](https://github.com/NikitaKoreshkov/art-office-group) | Next.js | Art Office Group design studio portfolio. |
+
+### **Specialized Apps**
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| [4snab](https://github.com/NikitaKoreshkov/4snab) | Next.js, amoCRM | Warehouse manager interface. |
+| [pechnoyproekt](https://github.com/NikitaKoreshkov/pechnoyproekt) | Next.js 14 | Stove catalog and calculator. |
+| [aukcionnyi-dom](https://github.com/NikitaKoreshkov/aukcionnyi-dom) | Database Management | Auction house document archive. |
+
+---
+
+## 🛠️ My Tech Stack
+
+**Frontend:** Next.js 14-16, React 18-19, TypeScript, Tailwind CSS, Framer Motion, GSAP  
+**Backend:** Node.js, NestJS 11, Spring Boot 2.7, Java 17, PostgreSQL, Prisma ORM  
+**DevOps:** Vercel, Docker, Nginx, MinIO, Argon2, JWT
+
+---
+
+## 📬 Contact
+
+- **GitHub:** [@NikitaKoreshkov](https://github.com/NikitaKoreshkov)
+- **Location:** Moscow, Russia (Open to Remote Work)
+
+---
+
+*Last updated: October 8, 2026*
