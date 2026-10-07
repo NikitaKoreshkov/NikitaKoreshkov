@@ -8,6 +8,7 @@ I build web products end to end: the interface layer, the API behind it, and the
 | --- | --- | --- |
 | [luno-agency](https://github.com/NikitaKoreshkov/luno-agency) | Site and client area for a digital agency. WebGPU scroll headline, refracting glass header, frame-budget watchdog, Postgres auth with OTP and Google sign-in. [Live](https://luno-agency-nknpro.vercel.app) | Next.js 16, three.js/WebGPU, GSAP, Postgres |
 | [FinKeyMemory](https://github.com/NikitaKoreshkov/FinKeyMemory) | Four-tier temporal memory for AI agents: as-of fact store, scene blocks, self-regenerating persona, maintenance cycle. Published to PyPI. | Python |
+| [stepwave-store](https://github.com/NikitaKoreshkov/stepwave-store) | Sneaker storefront on Spring Boot with a Thymeleaf catalog, email-code reset and a client area. Revisited in 2026: the README lists the defects found against the running app and how each was fixed. | Java 17, Spring Boot, PostgreSQL |
 | [pechnoyproekt](https://github.com/NikitaKoreshkov/pechnoyproekt) | Catalog, cost calculator and portfolio for a construction business. | Next.js, TypeScript |
 | [4snab](https://github.com/NikitaKoreshkov/4snab) | Warehouse manager interface with amoCRM integration. | Next.js, TypeScript |
 
