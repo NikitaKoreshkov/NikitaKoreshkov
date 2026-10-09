@@ -30,6 +30,7 @@ I build production software and practical AI systems: from agent infrastructure 
 | [Bereke Development](https://github.com/NikitaKoreshkov/bereke-development) · [Live](https://bc-bereke.kz) | Office-center website and CRM integration | Next.js |
 | [City Legend](https://github.com/NikitaKoreshkov/city-legend) · [Live](https://citylegend.art) | E-commerce and brand experience | Next.js, Tailwind CSS |
 | [Tvorcy Dobra](https://github.com/NikitaKoreshkov/tvorcy-dobra) | Donation platform with nonprofit and admin workflows | Next.js, NestJS, PostgreSQL |
+| [Show Sochi](https://github.com/NikitaKoreshkov/show-sochi) · [Live](https://show-sochi.vercel.app) | Event venue site with drone video hero, WhatsApp booking, and admin content editor | Next.js, Prisma, PostgreSQL |
 
 ## How I work
 
